@@ -1,0 +1,51 @@
+const menu = [
+    {
+      id: 1,
+      title: 'Apples',
+      category: 'fruits',
+      price: 15.99,
+      img: "http://tny.im/qxY",
+      desc: `Red, tarty fruit with Vitamin C, Antioxidants and potassium`,
+    },
+    {
+      id: 2,
+      title: 'Bananas',
+      category: 'fruits',
+      price: 13.99,
+      img: 'https://tinyurl.com/45pyt7rm',
+      desc: `Yellow, fruity fruit, heavy in Potassium, Vitamin B6, Vitamin C`,
+    },
+    {
+      id: 3,
+      title: 'Oranges',
+      category: 'fruits',
+      price: 6.99,
+      img: "https://tinyurl.com/5atp4zr6",
+      desc: `Tart, orange apple with Vitamin C, and other vitamins to improve eyesight`,
+    },
+    {
+      id: 4,
+      title: 'Cauliflower',
+      category: 'vegetables',
+      price: 8.99,
+      img: 'https://tinyurl.com/33av9ava',
+      desc: `Cruciferous vegetables with high levels of fiber and antioxidants`,
+    },
+    {
+      id: 5,
+      title: "Beans",
+      category: 'vegetables',
+      price: 12.99,
+      img: './images/item-5.jpeg',
+      desc: `Nutrious vegetable with plenty of iron, protein and other nutrition`,
+    },
+    {
+      id: 7,
+      title: 'Potassium',
+      category: 'vitamins',
+      price: 2.99,
+      img: 'https://tinyurl.com/bwkekftm',
+      desc: `Responsible for decreasing heart pressure, lowering bone fractures and more`,
+    },
+  ];
+  export default menu;
